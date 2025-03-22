@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "echo Hello, world",
+    "date",
+    "uptime"
+  ]
+}
